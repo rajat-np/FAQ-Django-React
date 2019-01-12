@@ -1,0 +1,11 @@
+{
+    "faqs":[
+        {"question":"How would I find tutor on the platform?", "answer":"All you need to do is to sign in/sign up from the home page. For sign up process, you need to verify your email address. Once you sign in, select the language you want to learn and select the time slot. Provide your contact number(only once) to complete the registration process. Wiztute executive will contact you to understand your learning requirement in specific and we will allot a tutor accordingly."},
+        {"question":"How much do tutors charge? How do I pay for it ?", "answer":"Tutor charge on hourly basis. They charge as per their qualification and experience.Wiztute does not control the pricing charges by tutors. Once you have a demo with the tutor, you can subscribe the learning session from the tutor by paying as per tutor’s hourly charges. There is a payment tab on dashboard though which you can pay the amount."},
+        {"question":"Will I get any certificate?", "answer":"No, wiztute tutors do not provide any certificate."},
+        {"question":"Are the timings flexible ?", "answer":"Yes, the timings are flexible. You can choose to learn at four different time-slots i.e. 8AM-12PM, 12PM-4PM, 4PM-8PM, 8PM-12AM"},
+        {"question":"How will the learning process happen?", "answer":"Once you have the demo with the tutor, you can subscribe the learning session as per your requirement. The whole learning will happen on wiztute platform by direct one-to-one interaction with the tutor. Click on “Go Live” tab at the predetermined time to connect to the tutor."},
+        {"question":"Is it online learning ?", "answer":"Yes, the whole learning process will be online."},
+        {"question":"What subjects do tutor teach ?", "answer":"As of now, you can start learning any spoken language that you want. I.e. Japanese, French, Spanish, etc"}]
+}
+
